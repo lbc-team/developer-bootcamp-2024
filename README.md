@@ -1,5 +1,5 @@
 <div align="center">
-<h1> Blockchain Developer & Smart Contract Bootcamp</h1>
+<h1> Solana 智能合约开发训练营 </h1>
 <h3> Beginner to Expert Course </h3>
 
 <p align="center"><strong>Learn smart contract development and level up your career</strong></p>
